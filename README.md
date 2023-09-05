@@ -1,6 +1,4 @@
-# Rainfall-Prediction
-Description:
-			
+# Rainfall-Prediction		
 Firstly, we will declare two arrays of size 12 to store months of years and declare suitable variables.
 Then we will take input from user of last year and current year rainfall statistics on same indexes of both arrays. The input will be taken in the form of pairs.
 Then we will show the table of last year and current year rainfall statistics.
